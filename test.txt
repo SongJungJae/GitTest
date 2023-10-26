@@ -1,3 +1,7 @@
 # test
 
 # vs code로 접속 (commit 하기)
+
+# vs code로 commit 성공
+
+# github에서 수정해서 vscode로 commit 하기
